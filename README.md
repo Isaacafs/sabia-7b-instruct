@@ -1,1 +1,1 @@
-For the original git link, access: https://github.com/jonasgabriel18/sabia-7b-instruct.git
+Para ver o link do git original, acesse: https://github.com/jonasgabriel18/sabia-7b-instruct.git
