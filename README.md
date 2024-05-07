@@ -1,6 +1,6 @@
 Sabia-7B Instruction is a Portuguese Large Language Model that was fine tuned using the instruction following dataset [Canarim-Instruct-PTBR](https://huggingface.co/datasets/dominguesm/Canarim-Instruct-PTBR-Dataset).
 
-This project was the final assingment of Natural Language Processing class, taught by [Yuri Malheiros](https://huggingface.co/yurimalheiros).
+This project was the final assingment of Natural Language Processing and Deep Learning class, taught by [Yuri Malheiros](https://huggingface.co/yurimalheiros).
 
 The base model was developed by Maritaca AI. See the [base model](https://huggingface.co/maritaca-ai/sabia-7b).
 
